@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "RandomForest-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"output"
+	],
+	"name" : "RFDecisionTreeLeaf",
+	"type" : "normal"
+}

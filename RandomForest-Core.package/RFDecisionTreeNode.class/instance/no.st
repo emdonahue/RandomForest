@@ -1,0 +1,3 @@
+accessing
+no
+	^ no
