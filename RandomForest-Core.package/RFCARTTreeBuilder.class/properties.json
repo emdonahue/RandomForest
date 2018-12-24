@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "RandomForest-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"maxDepth",
+		"minSize"
+	],
+	"name" : "RFCARTTreeBuilder",
+	"type" : "normal"
+}
