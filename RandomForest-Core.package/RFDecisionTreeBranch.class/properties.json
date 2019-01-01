@@ -11,6 +11,6 @@
 		"index",
 		"threshold"
 	],
-	"name" : "RFDecisionTreeNode",
+	"name" : "RFDecisionTreeBranch",
 	"type" : "normal"
 }

@@ -1,3 +1,3 @@
 tests
-test: aNumber
+testThreshold: aNumber
 	^ aNumber <= threshold

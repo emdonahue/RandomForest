@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "RFDecisionTreeNode",
+	"super" : "RFDecisionTreeBranch",
 	"category" : "RandomForest-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "RFDecisionTreeSymbolicNode",
+	"name" : "RFDecisionTreeNumericBranch",
 	"type" : "normal"
 }

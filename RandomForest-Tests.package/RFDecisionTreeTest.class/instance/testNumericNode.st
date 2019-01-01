@@ -1,7 +1,7 @@
 tests
 testNumericNode
 	| node |
-	node := RFDecisionTreeNumericNode new
+	node := RFDecisionTreeNumericBranch new
 		yes: (RFDecisionTreeLeaf new output: true);
 		no: (RFDecisionTreeLeaf new output: false);
 		index: 1;
