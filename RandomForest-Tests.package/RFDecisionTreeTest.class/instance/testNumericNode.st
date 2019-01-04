@@ -1,4 +1,4 @@
-tests
+evaluating
 testNumericNode
 	| node |
 	node := RFDecisionTreeNumericBranch new

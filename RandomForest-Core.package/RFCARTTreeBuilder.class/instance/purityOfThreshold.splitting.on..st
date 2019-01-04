@@ -1,4 +1,4 @@
-as yet unclassified
+scoring
 purityOfThreshold: aThreshold splitting: theRecords on: aKey
 	| equal notEqual |
 	equal := Bag new.

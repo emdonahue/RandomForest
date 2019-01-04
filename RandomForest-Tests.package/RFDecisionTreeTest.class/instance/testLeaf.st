@@ -1,4 +1,4 @@
-tests
+evaluating
 testLeaf
 	| leaf |
 	leaf := RFDecisionTreeLeaf new output: #success.

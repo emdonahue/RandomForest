@@ -1,5 +1,5 @@
 building
-buildCategoricalLeaf: records
+buildLeafSymbolic: records
 	| bestOutput maxCount votes |
 	bestOutput := nil.
 	maxCount := 0.

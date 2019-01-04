@@ -1,3 +1,3 @@
-as yet unclassified
+api
 train: records
-	^ self train: records depth: 0
+	^ self buildTree: records depth: 0

@@ -1,3 +1,3 @@
-accessing
+api
 minSize: anObject
 	minSize := anObject

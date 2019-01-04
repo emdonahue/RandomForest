@@ -1,4 +1,4 @@
-tests
+evaluating
 testSymbolicNode
 	| node |
 	node := RFDecisionTreeSymbolicBranch new yes: (RFDecisionTreeLeaf new output: true); no: (RFDecisionTreeLeaf new output: false); index: 1; threshold: #success.

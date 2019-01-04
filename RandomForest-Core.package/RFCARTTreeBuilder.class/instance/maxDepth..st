@@ -1,3 +1,3 @@
-accessing
+api
 maxDepth: anObject
 	maxDepth := anObject

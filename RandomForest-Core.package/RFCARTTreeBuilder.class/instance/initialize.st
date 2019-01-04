@@ -1,5 +1,5 @@
 initialization
 initialize
 	super initialize.
-	maxDepth := 99.
-	minSize := 1.
+	maxDepth := 5.
+	minSize := 10.
